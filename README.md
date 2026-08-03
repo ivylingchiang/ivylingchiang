@@ -1,6 +1,7 @@
 <div align="center">
+
 # Hi, I'm Ivy 👋
-**AI Systems • Systems Programming • Embedded Systems**
+
 </div>
 
 ## 🎓 Education

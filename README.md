@@ -59,6 +59,15 @@ National Tsing Hua University (NTHU), Hsinchu, Taiwan
 | [Hardware Design](https://github.com/ivylingchiang/NTHU_HardwareDesign) / [Final Project](https://github.com/ivylingchiang/NTHU_HardwareDesign-FinalProject) | Digital hardware design labs and final project implementation | Verilog · FPGA · Digital Logic Design |
 | [Operating Systems](https://github.com/ivylingchiang/NTHU_CS_OperatingSystem) | Operating system labs focusing on system programming concepts and implementation | C++ · Operating Systems |
 
+
+## 🌱 Other Projects
+
+| Project | Description | Tech / Focus |
+|---|---|---|
+| [Software Studio](https://github.com/ivylingchiang/NTHU_CS_SoftwareStudio) | Final project for Software Studio course, focusing on software development and project implementation | Software Engineering · Programming |
+| [NTHU_EmbeddingSystem](https://github.com/ivylingchiang/NTHU_EmbeddingSystem) | Experiments with text embedding models, vector representations, and embedding-based retrieval methods | Python · Embedding · Vector Search |
+| [Linux Kernel](https://github.com/ivylingchiang/linux-kernel) | Learning notes and hands-on practices for Linux kernel development and system programming | C · Linux Kernel · Systems Programming |
+| [CSI2P Final Project](https://github.com/ivylingchiang/NTHU_CSI2P-Final-Project) | Final project for Introduction to Programming, implementing a game application | C++ · Game Development |
 ---
 
 <!-- ## 🏆 LeetCode

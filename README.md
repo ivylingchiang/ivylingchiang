@@ -4,7 +4,7 @@
 
 </div>
 
-## 🎓 Education
+
 
 🏫 **Master of Science (M.S.) in Electrical Engineering**  
 National Cheng Kung University (NCKU), Tainan, Taiwan

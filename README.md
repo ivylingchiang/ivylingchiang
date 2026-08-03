@@ -1,45 +1,69 @@
 <div align="center">
-
-# Hi, I'm Chiang Pei-Lin 👋
-
+# Hi, I'm Ivy 👋
+**AI Systems • Systems Programming • Embedded Systems**
 </div>
 
-* 🎓 B.S. in Computer Science, National Tsing Hua University (NTHU), Taiwan — Class of 2026
-* 🎓 Currently pursuing a degree in Electrical Engineering, National Cheng Kung University (NCKU), Taiwan
-* 🔭 Currently focused on systems programming (Operating Systems / Compilers / Embedded Systems / Hardware Design) and generative-AI applications
-* 📫 How to reach me: [ivylingchiang@gmail.com](mailto:ivylingchiang@gmail.com)
+## 🎓 Education
+
+🏫 **Master of Science (M.S.) in Electrical Engineering**  
+National Cheng Kung University (NCKU), Tainan, Taiwan
+
+🎓 **Bachelor of Science (B.S.) in Interdisciplinary Program of Science (2026)**  
+National Tsing Hua University (NTHU), Hsinchu, Taiwan
+
+## 👨‍💻 About Me
+
+- My name is Pei-Lin, Chiang. You can call me Ivy.
+- 🔭 Interested in **AI Systems, Operating Systems, Embedded Systems, Compiler Design, and Hardware Design**
+- 🌱 Currently exploring **LLM Applications, Multi-Agent Systems, and Linux Kernel**
+- 💻 Mainly coding in **C/C++, Python, and TypeScript**
+- 📫 Reach me at **ivylingchiang@gmail.com**
 
 ## 💻 Tech Stack
+
 <div align="left">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cpp logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="30" alt="verilog logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" /></code>
+
+**Languages**
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="C++"/></code>
+<img width="10"/>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/></code>
+<img width="10"/>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/></code>
+<img width="10"/>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/></code>
+<img width="10"/>
+<code><img src="assets/image.png" height="30" alt="Verilog"/></code>
+<br><br>
+
+**Tools & Platforms**
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/></code>
+<img width="10"/>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/></code>
+<img width="10"/>
+<code><img src="https://skillicons.dev/icons?i=github" height="30"/></code>
+
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
-| Repo | Description | Highlight |
+| Project | Description | Tech / Focus |
 |---|---|---|
-| [maxi](https://github.com/ivylingchiang/maxi) | Multi-agent generative-AI trading co-pilot for the MAX exchange — reads trading history, analyzes the market, places orders, and warns before repeated mistakes | 2026 雲湧智生 Hackathon entry |
-| [Introduction-to-Artificial-Intelligence](https://github.com/ivylingchiang/Introduction-to-Artificial-Intelligence) | Coursework projects for Introduction to Artificial Intelligence | Jupyter Notebook implementations |
-| [NTHU_HardwareDesign-FinalProject](https://github.com/ivylingchiang/NTHU_HardwareDesign-FinalProject) | Final project for Hardware Design course | Verilog |
-| [NTHU_CS_OperatingSystem](https://github.com/ivylingchiang/NTHU_CS_OperatingSystem) | Operating Systems coursework | C++ |
-| [NTHU_Compiler-Design](https://github.com/ivylingchiang/NTHU_Compiler-Design) | Compiler Design coursework | — |
+| [MAXi](https://github.com/ivylingchiang/maxi) | Multi-agent generative AI trading co-pilot integrating LLM agents, market analysis, trading workflow, and risk-aware decision making | LLM Agents · TypeScript · React · 2026 雲湧智生 Hackathon |
+| [Introduction-to-Artificial-Intelligence](https://github.com/ivylingchiang/Introduction-to-Artificial-Intelligence) | AI course projects covering fundamental AI algorithms and applications | Python · Jupyter Notebook |
+| [Machine-Learning](https://github.com/ivylingchiang/NTHU_CS_MachineLearning) | Machine learning projects implementing classical ML algorithms and model experiments | Python · Machine Learning · Jupyter Notebook |
+| [Hardware Design](https://github.com/ivylingchiang/NTHU_HardwareDesign) / [Final Project](https://github.com/ivylingchiang/NTHU_HardwareDesign-FinalProject) | Digital hardware design labs and final project implementation | Verilog · FPGA · Digital Logic Design |
+| [Operating Systems](https://github.com/ivylingchiang/NTHU_CS_OperatingSystem) | Operating system labs focusing on system programming concepts and implementation | C++ · Operating Systems |
 
-## 📊 GitHub Analytics
+---
+
+<!-- ## 🏆 LeetCode
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivylingchiang&show_icons=true&theme=default" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivylingchiang&layout=compact&theme=default" alt="Top Languages" width="35%" />
-</div>
+
+<img src="https://leetcard.jacoblin.cool/ivylingchiang?theme=light&ext=heatmap"/>
+
+</div> -->

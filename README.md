@@ -2,25 +2,26 @@
 
 # Hi, I'm Ivy 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pei-lin-chiang-655255392/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com.tw/citations?user=IConwNwAAAAJ&hl=zh-TW)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ivylingchiang@gmail.com)
+
 </div>
 
+## 🎓 Education
 
+**M.S. in Electrical Engineering** · National Cheng Kung University (NCKU), Tainan, Taiwan · 2026 – present  
+**B.S. in Interdisciplinary Program of Science** · National Tsing Hua University (NTHU), Hsinchu, Taiwan · 2022 – 2026
 
-🏫 **Master of Science (M.S.) in Electrical Engineering**  
-National Cheng Kung University (NCKU), Tainan, Taiwan
+## 🧑‍💻 About Me
 
-🎓 **Bachelor of Science (B.S.) in Interdisciplinary Program of Science (2026)**  
-National Tsing Hua University (NTHU), Hsinchu, Taiwan
+- My name is Pei-Lin Chiang. You can call me Ivy.
+- Interested in **AI Systems, Operating Systems, Embedded Systems, Compiler Design, and Hardware Design**
+- Currently exploring **LLM Applications, Multi-Agent Systems, and Linux Kernel**
+- Mainly coding in **C/C++, Python, and TypeScript**
+- Reach me at **ivylingchiang@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/pei-lin-chiang-655255392/)
 
-## 👨‍💻 About Me
-
-- My name is Pei-Lin, Chiang. You can call me Ivy.
-- 🔭 Interested in **AI Systems, Operating Systems, Embedded Systems, Compiler Design, and Hardware Design**
-- 🌱 Currently exploring **LLM Applications, Multi-Agent Systems, and Linux Kernel**
-- 💻 Mainly coding in **C/C++, Python, and TypeScript**
-- 📫 Reach me at **ivylingchiang@gmail.com**
-
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="left">
 
@@ -60,19 +61,10 @@ National Tsing Hua University (NTHU), Hsinchu, Taiwan
 | [Operating Systems](https://github.com/ivylingchiang/nthu-operating-systems) | NachOS machine problems (system calls, multiprogramming, CPU scheduling, file system) and a Pthreads programming assignment | C/C++ · NachOS · Pthreads |
 
 
-## 🌱 Other Projects
+## 📂 Other Projects
 
 | Project | Description | Tech / Focus |
 |---|---|---|
 | [Software Studio](https://github.com/ivylingchiang/nthu-software-studio) | 2D top-down action game built with Cocos Creator and Firebase (auth, leaderboard), plus web canvas app and labs | TypeScript · Cocos Creator · Firebase |
 | [Embedded Systems](https://github.com/ivylingchiang/nthu-embedded-systems) | Microcontroller labs: assembly programming, memory addressing, I/O ports, timers, interrupts, and UART communication | C · Assembly · 8051 (Keil C51) |
 | [MeowMeow](https://github.com/ivylingchiang/meowmeow-allegro-game) | Cat-collecting 2D game; my part was refactoring the scene manager into an object-oriented design | C++ · Allegro 5 |
----
-
-<!-- ## 🏆 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/ivylingchiang?theme=light&ext=heatmap"/>
-
-</div> -->

@@ -54,19 +54,19 @@ National Tsing Hua University (NTHU), Hsinchu, Taiwan
 | Project | Description | Tech / Focus |
 |---|---|---|
 | [MAXi](https://github.com/ivylingchiang/maxi) | Multi-agent generative AI trading co-pilot integrating LLM agents, market analysis, trading workflow, and risk-aware decision making | LLM Agents · TypeScript · React · 2026 雲湧智生 Hackathon |
-| [Introduction-to-Artificial-Intelligence](https://github.com/ivylingchiang/Introduction-to-Artificial-Intelligence) | AI course projects covering fundamental AI algorithms and applications | Python · Jupyter Notebook |
-| [Machine Learning](https://github.com/ivylingchiang/NTHU_CS_MachineLearning) | Final project: handwritten mathematical expression recognition, translating formula images into LaTeX with a CNN encoder and an attention-based RNN decoder | Python · TensorFlow / Keras · CNN + RNN |
-| [Hardware Design](https://github.com/ivylingchiang/NTHU_HardwareDesign) / [Final Project](https://github.com/ivylingchiang/NTHU_HardwareDesign-FinalProject) | Digital hardware design labs and final project implementation | Verilog · FPGA · Digital Logic Design |
-| [Operating Systems](https://github.com/ivylingchiang/NTHU_CS_OperatingSystem) | NachOS machine problems (system calls, multiprogramming, CPU scheduling, file system) and a Pthreads programming assignment | C/C++ · NachOS · Pthreads |
+| [Intro to AI](https://github.com/ivylingchiang/nthu-intro-to-ai) | Search, n-Queens (GA, hill climbing) and ML assignments; team final project on RL traffic-signal control in SUMO (PPO cut waiting time by 97.6%) | Python · Stable-Baselines3 · SUMO |
+| [Machine Learning](https://github.com/ivylingchiang/handwritten-math-recognition) | Final project: handwritten mathematical expression recognition, translating formula images into LaTeX with a CNN encoder and an attention-based RNN decoder | Python · TensorFlow / Keras · CNN + RNN |
+| [FPGA Autonomous Car](https://github.com/ivylingchiang/fpga-autonomous-car) / [Labs](https://github.com/ivylingchiang/nthu-hardware-design-labs) | Autonomous and manually controlled car on an FPGA: maze navigation with ultrasonic and infrared line-tracking sensors | Verilog · FPGA · Digital Logic Design |
+| [Operating Systems](https://github.com/ivylingchiang/nthu-operating-systems) | NachOS machine problems (system calls, multiprogramming, CPU scheduling, file system) and a Pthreads programming assignment | C/C++ · NachOS · Pthreads |
 
 
 ## 🌱 Other Projects
 
 | Project | Description | Tech / Focus |
 |---|---|---|
-| [Software Studio](https://github.com/ivylingchiang/NTHU_CS_SoftwareStudio) | Final project for Software Studio course, focusing on software development and project implementation | Software Engineering · Programming |
-| [Embedded Systems](https://github.com/ivylingchiang/NTHU_EmbeddingSystem) | Microcontroller labs: assembly programming, memory addressing, I/O ports, timers, interrupts, and UART communication | C · Assembly · 8051 (Keil C51) |
-| [CSI2P Final Project](https://github.com/ivylingchiang/NTHU_CSI2P-Final-Project) | Final project for Introduction to Programming, implementing a game application | C++ · Game Development |
+| [Software Studio](https://github.com/ivylingchiang/nthu-software-studio) | 2D top-down action game built with Cocos Creator and Firebase (auth, leaderboard), plus web canvas app and labs | TypeScript · Cocos Creator · Firebase |
+| [Embedded Systems](https://github.com/ivylingchiang/nthu-embedded-systems) | Microcontroller labs: assembly programming, memory addressing, I/O ports, timers, interrupts, and UART communication | C · Assembly · 8051 (Keil C51) |
+| [MeowMeow](https://github.com/ivylingchiang/meowmeow-allegro-game) | Cat-collecting 2D game; my part was refactoring the scene manager into an object-oriented design | C++ · Allegro 5 |
 ---
 
 <!-- ## 🏆 LeetCode

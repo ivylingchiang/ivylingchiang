@@ -50,21 +50,33 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Tech / Focus |
+| Project | Description | Tech |
 |---|---|---|
-| [MAXi](https://github.com/ivylingchiang/maxi) | Multi-agent generative AI trading co-pilot integrating LLM agents, market analysis, trading workflow, and risk-aware decision making | LLM Agents · TypeScript · React · 2026 雲湧智生 Hackathon |
-| [Intro to AI](https://github.com/ivylingchiang/nthu-intro-to-ai) | Search, n-Queens (GA, hill climbing) and ML assignments; team final project on RL traffic-signal control in SUMO (PPO cut waiting time by 97.6%) | Python · Stable-Baselines3 · SUMO |
-| [Machine Learning](https://github.com/ivylingchiang/handwritten-math-recognition) | Final project: handwritten mathematical expression recognition, translating formula images into LaTeX with a CNN encoder and an attention-based RNN decoder | Python · TensorFlow / Keras · CNN + RNN |
-| [FPGA Autonomous Car](https://github.com/ivylingchiang/fpga-autonomous-car) / [Labs](https://github.com/ivylingchiang/nthu-hardware-design-labs) | Autonomous and manually controlled car on an FPGA: maze navigation with ultrasonic and infrared line-tracking sensors | Verilog · FPGA · Digital Logic Design |
-| [Operating Systems](https://github.com/ivylingchiang/nthu-operating-systems) | NachOS machine problems (system calls, multiprogramming, CPU scheduling, file system) and a Pthreads programming assignment | C/C++ · NachOS · Pthreads |
+| **Appraisal Review AI**<br>[main](https://github.com/ivylingchiang/newtaipei-appraisal-review-ai) · [v1](https://github.com/ivylingchiang/newtaipei-appraisal-review-ai-chatBox) | AI assistant for auditable validation of real-estate appraisal cases: document extraction, deterministic rule checks and LLM review. Built for the 2026 New Taipei City Government Hackathon | AWS (Textract, Bedrock, ECS Fargate) · Python |
+| [**MAXi**](https://github.com/ivylingchiang/maxi) | Multi-agent generative-AI trading co-pilot for the MAX exchange: reads the market, places orders, and warns before you repeat mistakes. 2026 雲湧智生 Hackathon | LLM Agents · TypeScript · React |
+| [**FPGA Autonomous Car**](https://github.com/ivylingchiang/fpga-autonomous-car) | Autonomous and manually controlled car on an FPGA: maze navigation with ultrasonic and infrared line-tracking sensors | Verilog · FPGA · Vivado |
+| [**Handwritten Math Recognition**](https://github.com/ivylingchiang/handwritten-math-recognition) | Translates images of handwritten formulas into LaTeX with a CNN encoder and an attention-based RNN decoder | Python · TensorFlow / Keras |
+| [**MeowMeow**](https://github.com/ivylingchiang/meowmeow-allegro-game) | Cat-collecting 2D game; my part was refactoring the scene manager into an object-oriented design | C++ · Allegro 5 |
 
+## 📚 Coursework
 
-## 📂 Other Projects
+### National Cheng Kung University (M.S.) · 🚧 in progress
 
-| Project | Description | Tech / Focus |
+| Course | Topics | Repository |
 |---|---|---|
-| [Software Studio](https://github.com/ivylingchiang/nthu-software-studio) | 2D top-down action game built with Cocos Creator and Firebase (auth, leaderboard), plus web canvas app and labs | TypeScript · Cocos Creator · Firebase |
-| [Embedded Systems](https://github.com/ivylingchiang/nthu-embedded-systems) | Microcontroller labs: assembly programming, memory addressing, I/O ports, timers, interrupts, and UART communication | C · Assembly · 8051 (Keil C51) |
-| [MeowMeow](https://github.com/ivylingchiang/meowmeow-allegro-game) | Cat-collecting 2D game; my part was refactoring the scene manager into an object-oriented design | C++ · Allegro 5 |
+| Edge AI | Network pruning, quantization (PTQ / QAT), knowledge distillation, ViT token pruning, SmoothQuant | [edge-ai-labs](https://github.com/ivylingchiang/edge-ai-labs) |
+
+> More NCKU coursework will be added at the end of the semester.
+
+### National Tsing Hua University (B.S.)
+
+| Course | Topics | Repository |
+|---|---|---|
+| Introduction to AI | Search, n-Queens (GA, hill climbing), ML; RL traffic-signal control in SUMO (team final project) | [nthu-intro-to-ai](https://github.com/ivylingchiang/nthu-intro-to-ai) |
+| Machine Learning | Regression, decision trees, LDA; MLP, CNN and RNN from scratch in NumPy | [nthu-machine-learning-labs](https://github.com/ivylingchiang/nthu-machine-learning-labs) |
+| Operating Systems | NachOS: system calls, paging, MLFQ scheduling, file system; Pthreads | [nthu-operating-systems](https://github.com/ivylingchiang/nthu-operating-systems) |
+| Software Studio | Cocos Creator + Firebase action game, web canvas app | [nthu-software-studio](https://github.com/ivylingchiang/nthu-software-studio) |
+| Hardware Design | Verilog, finite state machines and peripherals on a Basys 3 FPGA | [nthu-hardware-design-labs](https://github.com/ivylingchiang/nthu-hardware-design-labs) |
+| Embedded Systems | 8051 assembly and C: I/O ports, timers, interrupts, UART | [nthu-embedded-systems](https://github.com/ivylingchiang/nthu-embedded-systems) |

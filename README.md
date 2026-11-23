@@ -78,6 +78,7 @@
 | Introduction to AI | Search, n-Queens (GA, hill climbing), ML; RL traffic-signal control in SUMO (team final project) | [nthu-intro-to-ai](https://github.com/ivylingchiang/nthu-intro-to-ai) |
 | Machine Learning | Regression, decision trees, LDA; MLP, CNN and RNN from scratch in NumPy | [nthu-machine-learning-labs](https://github.com/ivylingchiang/nthu-machine-learning-labs) |
 | Operating Systems | NachOS: system calls, paging, MLFQ scheduling, file system; Pthreads | [nthu-operating-systems](https://github.com/ivylingchiang/nthu-operating-systems) |
+| Compiler Design | flex/yacc scanner and parser; AST-based RISC-V code generator (RV64/RV32), Andes P-extension SIMD intrinsics | [nthu-compiler-design](https://github.com/ivylingchiang/nthu-compiler-design) |
 | Software Studio | Cocos Creator + Firebase action game, web canvas app | [nthu-software-studio](https://github.com/ivylingchiang/nthu-software-studio) |
 | Hardware Design | Verilog, finite state machines and peripherals on a Basys 3 FPGA | [nthu-hardware-design-labs](https://github.com/ivylingchiang/nthu-hardware-design-labs) |
 | Embedded Systems | 8051 assembly and C: I/O ports, timers, interrupts, UART | [nthu-embedded-systems](https://github.com/ivylingchiang/nthu-embedded-systems) |
